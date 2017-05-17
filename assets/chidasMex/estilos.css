@@ -1,0 +1,30 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: ‘Lato’, sans-serif;
+    color: #fff;
+    background-color: #ff1493;
+}
+
+header{
+  background-color: #ffe600;
+  padding: 30px;
+  font-weight: 900;
+}
+
+h1 {
+    font-weight: 900;
+    font-size: 60px;
+}
+
+p {
+    font-weight: 400;
+    font-size: 20px;
+}
+.areaMemorama{
+    
+}

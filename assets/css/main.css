@@ -1,0 +1,81 @@
+/*------Inicio Estilos Vale------*/
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: ‘Lato’, sans-serif;
+    color: #fff;
+    background-color: #ff1493;
+}
+h1 {
+    font-weight: 900;
+    font-size: 60px;
+}
+
+p {
+    font-weight: 400;
+    font-size: 20px;
+}
+/*------Fin Estilos Vale------*/
+
+
+/*--------Inicio Estilos Ann-----*/
+.sizeNav{
+    height: 15vh;
+    background-color: #ffe600;
+    
+}
+.container{
+    color:#ff1493;
+}
+.item{
+    margin-left: 30vw;
+    background: #ff1493;
+    font-weight: bold;
+    font-size: 20px;
+    color: white;
+    padding: 1.5em;
+}
+/*--------Fin Estilos Ann-----*/
+
+/*--------Inicio Estilos Mone-----*/
+
+#areaMemorama{
+    color: white;
+    margin-top: 20vh;
+}
+
+#myCarousel{
+    background-color: #1b6f83;
+    
+}
+#contenedorColorExtra>div{
+   background-color: #1b6f83; 
+}
+
+#tableroMemorama{
+    margin-top: 10vh;
+}
+
+footer{
+     background-color: #ffe600;
+    width: 100%;
+}
+/*--------Fin Estilos Mone-----*/
+
+
+
+/*--------Inicio Estilos Rena-----*/
+
+.network-lab{
+    display: flex;
+    justify-content: center;
+}
+.network-lab img{
+    width: 15%;
+}
+
+/*--------Fin Estilos Rena-----*/
