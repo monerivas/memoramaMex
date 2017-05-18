@@ -1,15 +1,20 @@
 /*------Inicio Estilos Vale------*/
-*{
+
+* {
     box-sizing: border-box;
     margin: 0;
     padding: 0;
 }
 
-body{
+body {
     font-family: ‘Lato’, sans-serif;
     color: #fff;
-    background-color: #ff1493;
+    background-color: #e5007c;
+    background-image: url(../../img/background.png);
+    background-size: cover;
+    text-align: center;
 }
+
 h1 {
     font-weight: 900;
     font-size: 60px;
@@ -19,19 +24,21 @@ p {
     font-weight: 400;
     font-size: 20px;
 }
+
+
 /*------Fin Estilos Vale------*/
 
 
 /*--------Inicio Estilos Ann-----*/
-.sizeNav{
-    height: 15vh;
+
+.sizeNav {
+    height: 12.5vh;
     background-color: #ffe600;
-    
 }
-.container{
-    color:#ff1493;
-}
-.item{
+
+
+
+.item {
     margin-left: 30vw;
     background: #ff1493;
     font-weight: bold;
@@ -39,42 +46,60 @@ p {
     color: white;
     padding: 1.5em;
 }
+
+
 /*--------Fin Estilos Ann-----*/
+
 
 /*--------Inicio Estilos Mone-----*/
 
-#areaMemorama{
+#areaMemorama {
     color: white;
-    margin-top: 20vh;
+    margin-top: 15vh;
 }
 
-#myCarousel{
+#myCarousel {
     background-color: #1b6f83;
-    
-}
-#contenedorColorExtra>div{
-   background-color: #1b6f83; 
 }
 
-#tableroMemorama{
-    margin-top: 10vh;
+#contenedorColorExtra>div {
+    background-color: #1b6f83;
 }
 
-footer{
-     background-color: #ffe600;
+#tableroMemorama {
+    margin-top: 8vh;
+}
+
+footer {
+    background-color: #00b5b5;
     width: 100%;
+    padding: 2em 0 .5em;
 }
+
+
 /*--------Fin Estilos Mone-----*/
 
+#carrusel {
+    margin-bottom: 4em;
+}
 
+#footer-chido p {
+    font-size: 1em;
+    letter-spacing: .1em;
+}
 
 /*--------Inicio Estilos Rena-----*/
 
-.network-lab{
+.network-lab {
     display: flex;
     justify-content: center;
 }
-.network-lab img{
+
+.network-lab a {
+    margin: 0;
+}
+
+.network-lab img {
     width: 15%;
 }
 
